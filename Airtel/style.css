@@ -1,0 +1,95 @@
+body {
+    
+    background-color: rgb(243, 243, 243);
+}
+.page {
+    background-color: white;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 5%;
+    width: 60%;
+    height: 900px;
+}
+.top {
+    display: inline;
+    float: right;
+}
+.top .button {
+    padding: 3%;
+    width: 50%;
+    background-color: white;
+    border-radius: 1.5%;
+    justify-content: right;
+    display: inline;
+    /* justify-content: space-between; */
+    text-align: right;
+
+}
+.top .logout {
+    color: rgb(211, 3, 3);
+    text-decoration: none;
+    margin-left: 5%;
+   
+   
+   
+}
+.main {
+    
+    justify-content: right;
+}
+
+
+/* .other {
+    display: inline-block;
+    background-color: rgb(151, 8, 144);
+    width: 100%;
+
+}
+.other .semi {
+    float: right;
+    width: 500px;
+    background-color: pink;
+    height: 400px;
+} */
+hr {
+    color: red;
+    background-color: red;
+    width: 100%;
+    height: 3.5px;
+}
+.fa {
+    color: rgb(228, 6, 6);
+    width: 2px;
+    height: 2px;
+    margin-left: 10%;
+    justify-content: space-between
+}
+.fa .fa-home {
+    color: rgb(228, 6, 6);
+    width: 2px;
+}
+
+.container {
+    
+    display: inline-block;  
+       
+}
+.sidebar {
+    
+}
+.main {
+    
+}
+
+p {
+    color: red;
+}
+button {
+    color: red;
+    width: 900px;
+    border: hidden;
+    padding: 15px;
+    text-align: left;
+    float: inline-end;
+    
+}

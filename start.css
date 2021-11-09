@@ -1,0 +1,58 @@
+body {
+    background-color: white;
+    color: rgb(242, 35, 7);
+    font-size: 25px;
+    font-style: italic;
+    padding: 25px;
+}
+body h1 {
+    color:#0000ff;
+    font-size: 60px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    text-shadow: 4px 3px #000;
+    text-decoration: underline;
+}
+body table th td {
+    border-color: #000;
+    border-radius: 3px;
+}
+#heading2 {
+    color: purple;
+    font-size: 40px;
+    text-decoration: line-through;
+    font-style: initial;
+    text-shadow: 3px 3px pink;
+
+}
+.sulah {
+    color: rgb(2, 2, 2);
+    font-style: italic;
+    
+}
+.owen {
+    width: 900px;
+    background-color: greenyellow;
+    height: 300px;
+    border: 3px red dashed;
+    border-radius: 30px;
+}
+.circle {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(184, 12, 184);
+    border: 4px rgb(248, 14, 53) solid;
+    border-radius: 50%;
+    border-top: 200px greenyellow solid;
+    border-bottom: 200px black solid;
+    border-left: 200px yellow solid;
+    border-right: 200px red solid;
+}
+.new {
+    width: 700px;
+    height: 300px;
+    background-color: red;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
